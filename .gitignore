@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+
+# SQLite db
+backend/database.sqlite
+
+# Vite
+dist/
+.vite/
